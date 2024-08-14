@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/tgQKxXFD/images-12.jpg" alt="banner">
+<img src="https://i.postimg.cc/t4KrtkKC/banner.png" alt="banner">
 <h1 align="center">Hi 👋, I'm Evan ahmed</h1>
 <h3 align="center">Just a gamer and a developer</h3>
 <p align="left">
