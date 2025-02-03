@@ -1,5 +1,5 @@
 <img src="https://i.postimg.cc/t4KrtkKC/banner.png" alt="banner">
-<h1 align="center">Hi 👋, I'm Evan ahmed</h1>
+<h1 align="center">Hi 👋, I'm Tanvir ahmed</h1>
 <h3 align="center">Just a gamer and a developer</h3>
 <p align="left">
  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="gamingtigersbd" /> </p>
